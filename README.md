@@ -8,7 +8,7 @@
       <a href="https://www.linkedin.com/in/kath-veremeychik-0690761b3/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="your-youtube-URL">
+      <a href="www.youtube.com/@ekama_dev">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
       <a href="https://t.me/kate_ver">
